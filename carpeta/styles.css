@@ -1,0 +1,54 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color:rgba(240, 158, 206, 0.2) ;
+    font-family: Arial, Helvetica, sans-serif ;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position:center ;}
+.input-group label{
+    display: block;
+    margin-bottom: 5px;
+    color:  #c4265d79; 
+
+    
+}
+
+.div-login{
+    padding: 20px;
+    margin: 50px auto;
+    max-width: 400px;
+    background-color: rgb(231, 169, 193);
+    border-radius: 5px;
+    box-shadow: rgb(0, 0, 0  , 0.1) ;
+   
+    
+    
+   
+}
+
+button{
+    width: 400px;
+    padding: 10px;
+    background-color: rgba(241, 84, 168, 0.5);
+    border-color:  rgba(241, 84, 168 );
+    font-size: 16px;
+    color: floralwhite;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    background-position-x: center;
+
+}
+.input-group input{
+    width: 300px;
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 3px;
+    border: #a56187;
+}
+
+.input-group{
+    margin-bottom: 20px;
+}
